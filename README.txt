@@ -1,3 +1,4 @@
 this file is just for git test
-git is a version control system
-git is a free software
+git is a version contr
+Git is distributed vesion control system
+
